@@ -13,7 +13,7 @@ public class Tarea06 extends Thread {
                 System.out.println("... ¡He llegado a mi limite!");
                 break;
             }
-            if (i == 4 && getName().equalsIgnoreCase("Diego")) {
+            if (i == 4 && getName().equalsIgnoreCase("Diego") ) {
                 System.out.println("... ¡He llegado a mi limite!");
                 break;
             }
